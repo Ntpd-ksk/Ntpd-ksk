@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Natapod Kasikorn
 
-<!--
-**Ntpd-ksk/Ntpd-ksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student
+🚀 Interested in Web Development
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Programming Languages : Python, Java,
+  C++, JavaScript
+- Frontend : HTML, CSS, React
+- Backend : Node.js
+- Database : MongoDB, Firebase
+- Tools : Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🛒 E-commerce Fullstack App
+- 🏠 Property listing System
+- 🤖 LINE Chatbot System
+
+## 📫 Contact
+- Email: Natapod7896@gmail.com
+- GitHub: https://github.com/Ntpd-ksk
