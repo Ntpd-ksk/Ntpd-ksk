@@ -16,6 +16,11 @@
 - 🏠 Property listing System
 - 🤖 LINE Chatbot System
 
+## 💡 What I Learned
+- Built fullstack application
+- Integrated API and database
+- Designed real-world system
+
 ## 📫 Contact
 - Email: Natapod7896@gmail.com
 - GitHub: https://github.com/Ntpd-ksk
