@@ -2,7 +2,7 @@
 
 # ⚡ Hi there, I'm Natapod Kasikorn (@ntpd-ksk) 👋
 ### 🚀 Full-Stack Software Engineer & Distributed Systems Builder
-**Faculty of Digital Technology and Innovation, Rangsit University (RSU)**
+**Computer Science @ Rangsit University**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Full-Stack+Next.js+14+%26+Nuxt+3+%2F+Vue+3+Engineer;Go+(Golang)+%26+TypeScript+Backend+Developer;Prisma+ORM+ACID+Transactions+%26+Database+Architect;Granular+CASL+ABAC%2FRBAC+Authorization+%26+Security;IoT+Telemetry+%26+GIS+Data+Visualizer+(Leaflet%2FApex);Automated+E2E+Testing+(Playwright+%26+Storybook))](https://git.io/typing-svg)
 
@@ -23,12 +23,10 @@
 ```typescript
 const engineer: SoftwareEngineer = {
   name: "Natapod Kasikorn (ณฐพจน์ กสิกรณ์)",
-  studentId: "6500930",
-  degree: "B.Sc. in Computer Science (วิทยาการคอมพิวเตอร์)",
-  institution: "Rangsit University (มหาวิทยาลัยรังสิต)",
+  education: "B.Sc. in Computer Science @ Rangsit University",
   coreCompetencies: [
-    "Modern Full-Stack Development (Next.js 14 / Nuxt 3 / Vue 3 / React 18)",
-    "Backend & Concurrency Engineering (Go / Node.js / Python / Prisma ORM)",
+    "Modern Full-Stack Engineering (Next.js 14 / Nuxt 3 / Vue 3 / React 18)",
+    "Backend & Concurrency Architecture (Go / Node.js / Python / Prisma ORM)",
     "Database & Transaction Integrity (ACID Row-Level Locking & Anti-Overselling)",
     "Granular Authorization & Security (CASL ABAC/RBAC, NextAuth, Bcrypt, WebCrypto)",
     "Real-Time Telemetry, GIS & Visualizations (ApexCharts, Leaflet GIS, TipTap)",
@@ -81,6 +79,7 @@ const engineer: SoftwareEngineer = {
 ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM%20(ACID)-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis%20(In--Memory%20Cache)-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![CASL RBAC](https://img.shields.io/badge/CASL%20(ABAC%2FRBAC)-4CAF50?style=for-the-badge&logo=shield&logoColor=white)
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js%20(JWT)-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bcrypt.js](https://img.shields.io/badge/Bcrypt.js-2496ED?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -93,8 +92,9 @@ const engineer: SoftwareEngineer = {
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![MSW](https://img.shields.io/badge/MSW%20(Mock%20Service)-FF6A00?style=for-the-badge&logo=mockserviceworker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20%26%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git / GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20(CI%2FCD)-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx%20(Reverse%20Proxy)-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Unlighthouse](https://img.shields.io/badge/Unlighthouse%20Audit-00DC82?style=for-the-badge&logo=lighthouse&logoColor=white)
 
 </div>
@@ -123,12 +123,12 @@ const engineer: SoftwareEngineer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ntpd-ksk&show_icons=true&theme=tokyonight&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=94a3b8&bg_color=0f172a" height="175" alt="Natapod's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntpd-ksk&layout=compact&theme=tokyonight&hide_border=true&title_color=ef4444&text_color=94a3b8&bg_color=0f172a" height="175" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntpd-ksk&theme=tokyonight" width="49%" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ntpd-ksk&theme=tokyonight" width="49%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ntpd-ksk&theme=tokyonight&hide_border=true&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&background=0f172a" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Ntpd-ksk&theme=tokyonight&hide_border=true&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&background=0f172a" width="98%" alt="GitHub Streak" />
 
 </div>
 
