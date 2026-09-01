@@ -4,14 +4,15 @@
 ### 🚀 Full-Stack Software Engineer & Distributed Systems Builder
 **Computer Science @ Rangsit University**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Full-Stack+Next.js+14+%26+Nuxt+3+%2F+Vue+3+Engineer;Go+(Golang)+%26+TypeScript+Backend+Developer;Prisma+ORM+ACID+Transactions+%26+Database+Architect;Granular+CASL+ABAC%2FRBAC+Authorization+%26+Security;IoT+Telemetry+%26+GIS+Data+Visualizer+(Leaflet%2FApex);Automated+E2E+Testing+(Playwright+%26+Storybook))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=750&lines=Full-Stack+Next.js+14+%26+Nuxt+3+%2F+Vue+3+Engineer;Go+(Golang)+%26+TypeScript+Backend+Developer;Prisma+ORM+ACID+Transactions+%26+Database+Architect;Granular+CASL+ABAC%2FRBAC+Authorization+%26+Security;IoT+Telemetry+%26+GIS+Data+Visualizer+(Leaflet%2FApex);Automated+E2E+Testing+(Playwright+%26+Storybook))](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/ntpd-ksk">
-    <img src="https://img.shields.io/github/followers/ntpd-ksk?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://img.shields.io/github/followers/ntpd-ksk?label=Followers&style=for-the-badge&logo=github&color=282a36&labelColor=6272a4" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-success?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-50FA7B?style=for-the-badge&logo=codeforces&logoColor=282a36" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Architecture-BD93F9?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-8BE9FD?style=for-the-badge&logo=googlemaps&logoColor=282a36" />
 </p>
 
 ---
@@ -123,12 +124,12 @@ const engineer: SoftwareEngineer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntpd-ksk&theme=tokyonight" width="49%" alt="GitHub Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ntpd-ksk&theme=tokyonight" width="49%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntpd-ksk&theme=dracula" width="49%" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ntpd-ksk&theme=dracula" width="49%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ntpd-ksk&theme=tokyonight&hide_border=true&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&background=0f172a" width="98%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Ntpd-ksk&theme=dracula&hide_border=true&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9&background=282a36" width="98%" alt="GitHub Streak" />
 
 </div>
 
@@ -139,16 +140,16 @@ const engineer: SoftwareEngineer = {
 <div align="center">
 
 <a href="https://github.com/ntpd-ksk">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=bd93f9" />
 </a>
 <a href="mailto:natapod.k@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=gmail&logoColor=282a36" />
 </a>
 <a href="https://www.rsu.ac.th/">
-  <img src="https://img.shields.io/badge/Rangsit_University-D32F2F?style=for-the-badge&logo=safari&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rangsit_University-8BE9FD?style=for-the-badge&logo=safari&logoColor=282a36" />
 </a>
 
 <br/><br/>
-<sub>⭐ Engineered with dedication by <b>Natapod Kasikorn</b> • 2026</sub>
+<sub>💜 Engineered with dedication by <b>Natapod Kasikorn</b> • 2026</sub>
 
 </div>
