@@ -139,15 +139,9 @@ const engineer: SoftwareEngineer = {
 
 <div align="center">
 
-<a href="https://github.com/ntpd-ksk">
-  <img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=bd93f9" />
-</a>
-<a href="mailto:natapod.k@gmail.com">
-  <img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=gmail&logoColor=282a36" />
-</a>
-<a href="https://www.rsu.ac.th/">
-  <img src="https://img.shields.io/badge/Rangsit_University-8BE9FD?style=for-the-badge&logo=safari&logoColor=282a36" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-ntpd--ksk-282a36?style=for-the-badge&logo=github&logoColor=bd93f9&labelColor=1e1f29)](https://github.com/ntpd-ksk)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Direct%20Message-BD93F9?style=for-the-badge&logo=gmail&logoColor=282a36&labelColor=6272a4)](mailto:testfordonate1@gmail.com)
 
 <br/><br/>
 <sub>💜 Engineered with dedication by <b>Natapod Kasikorn</b> • 2026</sub>
