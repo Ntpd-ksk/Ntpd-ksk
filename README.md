@@ -39,35 +39,35 @@ const engineer: SoftwareEngineer = {
 
 ---
 
-## 🛠️ Tech Stack & Toolbox
+## 🛠️ Technical Skills & Stack
 
-<div align="center">
-
-<p align="center">
+### 💻 1. Programming Languages
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,py,java,html,css,sass,nextjs,react&theme=dark" alt="Languages & Frontend" />
+    <img src="https://skillicons.dev/icons?i=go,ts,js,py,mysql,postgres,java,html,css,sass&theme=dark" alt="Languages" />
   </a>
 </p>
 
-<p align="center">
+### 🌐 2. Frontend Ecosystem & Web Frameworks
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nuxtjs,vue,tailwind,redux,pinia,vite,nodejs,express,fastapi,prisma&theme=dark" alt="Frameworks & Backend" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,tailwind,redux,pinia,vite&theme=dark" alt="Frontend Frameworks" />
   </a>
 </p>
 
-<p align="center">
+### ⚙️ 3. Backend, Database & APIs
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,graphql,git,github,githubactions,docker,nginx,vercel&theme=dark" alt="Databases & DevOps" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,mysql,postgres,redis,graphql&theme=dark" alt="Backend and Databases" />
   </a>
 </p>
 
-<p align="center">
+### 🧪 4. DevOps, Testing & Tooling
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,jest,postman,linux,figma&theme=dark" alt="Testing & Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,nginx,vercel,vitest,jest,postman,figma,linux&theme=dark" alt="DevOps, Testing and Tools" />
   </a>
 </p>
-
-</div>
 
 ---
 
@@ -93,13 +93,9 @@ const engineer: SoftwareEngineer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntpd-ksk&theme=dracula" width="340" alt="GitHub Profile Details" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ntpd-ksk&theme=dracula" width="340" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ntpd-ksk&theme=dracula&hide_border=true&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9&background=282a36" width="460" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntpd-ksk&theme=dracula" width="31%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ntpd-ksk&theme=dracula" width="31%" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=Ntpd-ksk&theme=dracula&hide_border=true&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9&background=282a36" width="35%" alt="GitHub Streak" />
 
 </div>
 
